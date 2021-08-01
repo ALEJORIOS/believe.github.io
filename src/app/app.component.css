@@ -1,0 +1,41 @@
+.espacio {
+    width: 200px;
+    height: 200px;
+    background: red;
+    box-sizing: border-box;
+    border: 10px solid blue;
+}
+
+.card {
+    background-color: #343A40;
+    background: radial-gradient(#4e5257, #343A40);
+    display: inline-block;
+    box-sizing: border-box;
+    margin: 4vh 10vw;
+    border: 1px solid #343A40;
+    border-radius: 10px;
+    padding: 1rem;
+    box-sizing: border-box;
+    border: 2px solid gold;
+    color: white;
+    box-shadow: 2px 2px 5px #212429;
+}
+
+.img {
+    width: 40%;
+    float: left;
+}
+
+.content {
+    width: 50%;
+    margin-left: 4%;
+    margin-top: 2.5%;
+    float: left;
+    font-size: 2.6rem;
+    text-shadow: 2px 2px 5px #212429;
+}
+
+#PROFESIONALISMO:hover {
+    text-shadow: 0 0 5px white;
+    transition: 0.2s ease;
+}

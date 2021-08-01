@@ -1,0 +1,6 @@
+Elementos:
+
+Navbarx
+Cardsx
+Politicasx
+Footerx

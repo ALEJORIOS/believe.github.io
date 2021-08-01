@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'believe';
+
+  // scroll(){
+  //   document.getElementById("last")?.scrollIntoView({behavior: 'smooth'});
+  // }
 }
